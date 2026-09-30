@@ -4,8 +4,6 @@ title: Flametree — AI Customer Operations Platform
 description: Voice and text AI agents for financial services, with customer context, human handoff, and conversation analytics.
 ---
 
-# Flametree
-
 ## AI Customer Operations Platform for Financial Services
 
 Controlled AI customer interactions with full customer context and complete visibility.
